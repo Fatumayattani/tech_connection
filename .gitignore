@@ -1,0 +1,30 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .env file
+.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+*.log.*
+
+# Ignore Vim temporary files
+*.swp
+*.swo
+
+# Ignore build or distribution directories
+/dist
+/build
+
+# Ignore coverage reports
+/coverage
+
+# Ignore Python-specific files
+*.pyc
+*.pyo
+__pycache__/
+
