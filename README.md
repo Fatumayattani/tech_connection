@@ -26,7 +26,7 @@ Collaborators
 
 Fatuma Yattani - GitHub Profile
 
-Ti-Jesu Tunde-Adeleke - GitHub Profile
+Ti-Jesu Tunde-Adeleke - TijesuRejoice
 
 Technologies Used
 
