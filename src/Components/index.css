@@ -1,0 +1,61 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+/* Add your additional styles below this line */
+.app-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.app-header h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.app-nav {
+  margin-bottom: 20px;
+}
+
+.app-nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.app-nav li {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.app-nav li:last-child {
+  margin-right: 0;
+}
+
+.app-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Add your additional styles above this line */
+
